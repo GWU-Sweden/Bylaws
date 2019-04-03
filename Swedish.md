@@ -63,12 +63,13 @@ Ett ordinarie årsmöte skall innehålla följande punkter:
 10. Beslut om fastställande av resultat- och balansräkning
 11. Beslut om resultatdisposition
 12. Fråga om ansvarsfrihet för styrelseledamöterna
-13. Fråga om arvoden åt styrelseledamöter och revisorer för nästkommande verksamhetsår
-14. Val av styrelseledamöter och suppleanter
-15. Val av revisorer och revisorssuppleant
-16. Val av valberedning
-17. Av styrelsen till årsmötet hänskjutna frågor samt av föreningsmedlem enligt stadgan anmält ärende
-18. Årsmötets avslutande
+13. Fråga om medlemsavgift för nästkommande verksamhetsår
+14. Fråga om arvoden åt styrelseledamöter och revisorer för nästkommande verksamhetsår
+15. Val av styrelseledamöter och suppleanter
+16. Val av revisorer och revisorssuppleant
+17. Val av valberedning
+18. Av styrelsen till årsmötet hänskjutna frågor samt av föreningsmedlem enligt stadgan anmält ärende
+19. Årsmötets avslutande
 
 Protokoll skall föras och skall justeras samt göras tillgängligt till medlemmar inte senare än 2 veckor efter årsmötets datum.
 

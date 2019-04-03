@@ -63,12 +63,13 @@ A general meeting's agenda shall contain the following:
 10. Decision to affirm financial statement
 11. Decision regarding the handling of financial result
 12. Decision to grant members of the board freedom from liability
-13. Decision regarding remuneration to board of directors and auditor for the coming year
-14. Election of members and alternates to board of directors
-15. Election of auditor and deputy auditor
-16. Election of nominating committee
-17. Motions submitted to the general meeting in accordance with the bylaws
-18. Closing remarks
+13. Decision regarding dues for membership for the coming year
+14. Decision regarding remuneration to board of directors and auditor for the coming year
+15. Election of members and alternates to board of directors
+16. Election of auditor and deputy auditor
+17. Election of nominating committee
+18. Motions submitted to the general meeting in accordance with the bylaws
+19. Closing remarks
 
 Minutes shall be taken and be approved and made available to the organization's members no later than 2 weeks after the general meeting.
 
