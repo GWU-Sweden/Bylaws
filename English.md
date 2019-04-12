@@ -36,7 +36,7 @@ The organization is open for any private individual to apply for membership. It 
 Current information regarding joining and cancelling membership shall be made available on the organization's website. The organization shall treat personal data in accordance to GDPR and other relevant legislation.
 
 ## Dues
-Dues for membership are decided by the general meeting.
+Dues for membership and the term it covers are decided by the general meeting. If the dues for the coming year have not been paid at the end of the term the membership is automatically cancelled.
 
 ## Expulsion
 If a member violates these bylaws and/or the ideology of the organization, the board may choose to issue a warning or expell the member after said member has had the chance to submit a written statement. Any member who is warned or expelled has the right to have the case heard by the general meeting.

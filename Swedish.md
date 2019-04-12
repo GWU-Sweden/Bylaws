@@ -36,7 +36,7 @@ Föreningen är öppen för alla privatpersoner att ansöka om att bli medlemmar
 Aktuell information om in- samt utträde skall finnas tillgänglig på föreningens hemsida. Föreningen ska hantera medlemsuppgifter enligt GDPR och annan relevant lagstiftning.
 
 ## Medlemsavgift
-Medlemsavgiften beslutas av årsmötet.
+Medlemsavgiften och tidsperioden den täcker beslutas av årsmötet. Om inte medlemsavgiften för kommande år betalats in vid tidsperiodens slut upphör medlemsskapet automatiskt.
 
 ## Uteslutning
 I det fall en medlem brutit mot dessa stadgar och/eller föreningens ideologi kan styrelsen välja att varna eller utesluta medlemmen efter det att medlemmen getts tillfälle att skriftligen yttra sig. Medlem som tilldelats en varning eller utesluts har rätt att begära ärendet prövat av årsmötet.
