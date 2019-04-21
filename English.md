@@ -1,3 +1,8 @@
+# Note on Translation
+
+The Swedish original of the Bylaws for GWU Sweden is the official document in effect, and this translation is provided as a courtesy to GWU Sweden’s members. Discrepancies and errors might occur.
+
+
 # General Provisions
 
 ## Name and headquarters
